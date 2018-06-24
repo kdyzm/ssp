@@ -1,3 +1,3 @@
 # Eclipse Startup Statistic Plugin
 
-Eclipse启动耗时统计插件
+Eclipse鍚姩缁熻鎻掍欢
